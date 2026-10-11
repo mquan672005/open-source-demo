@@ -1,2 +1,3 @@
-# open-source-demo
-Demo contributing to an open source project
+# Open Source Demo
+
+This project help students learn programming.
