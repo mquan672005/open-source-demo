@@ -3,6 +3,3 @@
 This project helps students learn programming.
 
 This project is created for learning Git and GitHub.
-
-hello
-hello moi nguoi
